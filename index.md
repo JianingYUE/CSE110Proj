@@ -29,4 +29,6 @@ A Chinese website: [Cainiaojiaocheng](https://www.runoob.com/)
 Also, my name is Jianing Yue, I like playing basketball and biking, also like music. I hava a cat, used to be half cat person and half dog person, but after I have a cat, I'm 80% cat person now. Have been to CA OK NY WA. I like CA most, SD is my favorite city in US. I'm from Shijiazhuang HeBei China. 
 
 Here is a picture of my cat.
-![Roselia](file:///Users/jianingsmacbook/Desktop/IMG_8651.PNG)
+![Roselia](IMG_8651.PNG)
+
+
