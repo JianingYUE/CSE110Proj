@@ -32,3 +32,30 @@ Here is a picture of my cat.
 ![Roselia](IMG_8651.PNG)
 
 
+>Wanna know me? Quick links
+
+[About Me as a Programmer](#about-me-as-a-programmer) | [About Me as a Person](#about-me-as-a-person)
+
+For NBA stars i like:
+
+- Kobe
+- Kyrie
+- Curry
+
+Runk them:
+
+1. Kobe
+2. Curry
+3. Kyrie
+
+Goals about this year:
+
+- [x] have a part time job
+-   travel 
+-   get a kobe's shoe
+
+Basic information in UCSD:
+
+[Link to README](README.md)
+
+
